@@ -1,4 +1,4 @@
 -Dikhususkan OpenWRT versi 21.02.1 ARM bukan compilean NOTED: hubungkan ke Internet saat update repo
 -Sumber file IPK di situs OPENWRT.ORG
 -Jikalau tidak mau terinstall lewat repo ini, silakan melalui feeds/repo IPK Openwrt.
--file feeds nya ada di repo ini atau download file img.  untuk compile-an orang silakan download melalui Reyre atau forum forum openwrt di medsos terpercaya.
+-file feeds nya ada di repo ini atau download file img.  untuk compile-an orang silakan download melalui Reyre atau forum forum openwrt di medsos terpercaya (biasanya udah terupdate reponya).
